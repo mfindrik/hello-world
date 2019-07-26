@@ -1,3 +1,3 @@
-# Exercise 1.1 - Terrier, BM25, and evaluation
+# Information retrieval BM25
 
-Repository containing a solution of the exercise 1.1
+Best Matching is a ranking function used by search engines to rank matching documents according to their relevance to a given search query.
